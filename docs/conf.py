@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'savic-test'
+project = 'SAVIC'
 copyright = '2023, Mihailo Martinovic'
 author = 'Mihailo Martinovic'
 release = '1.0.0'
