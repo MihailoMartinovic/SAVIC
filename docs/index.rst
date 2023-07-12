@@ -23,7 +23,7 @@ Welcome to SAVIC documentation!
    :maxdepth: 1
    :caption: Python Package
 
-   Files List <pypi-list>
+   File Structure <pypi-structure>
 
 
 Indices and tables
