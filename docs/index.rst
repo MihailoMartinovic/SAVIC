@@ -18,10 +18,15 @@ Welcome to SAVIC documentation!
 
    Files List <git-list>
 
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Python Package
+
+   Files List <pypi-list>
+
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
