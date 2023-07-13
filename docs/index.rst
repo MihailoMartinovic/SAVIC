@@ -10,20 +10,37 @@ Welcome to SAVIC documentation!
    :maxdepth: 2
    :caption: Contents:
 
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: What is SAVIC?
+
+   Background <01-intro>
+   Purpose of SAVIC <01-purpose>
+
+.. toctree::
+   :hidden:
+   :maxdepth: 2
+   :caption: File Structure
+   
+   GitHub Repository <02-structure-git>
+   Python Package <02-structure-pypi>
 
 .. toctree::
    :hidden:
    :maxdepth: 1
-   :caption: GitHub Repository
+   :caption: Manual & Examples
 
-   Files List <git-list>
+   Basic Functions <03-functions-base>
+   Chain Functions <03-functions-chain>
+   Full SAVIC Tree <03-functions-savic>
 
 .. toctree::
    :hidden:
    :maxdepth: 1
-   :caption: Python Package
+   :caption: About Milunka Savić
 
-   File Structure <pypi-structure>
+   A Hero's Story <04-about-milunka>
 
 
 Indices and tables
