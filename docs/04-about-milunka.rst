@@ -6,7 +6,7 @@ A Hero's Story
 
 *Whosoever will be great among you, shall be your minister: And whosoever of you will be the chiefest, shall be servant of all.* Mark 10:43-44
 
-**This is a story about the greatest female warroir of all time - a lady with nine wounds and twelve medals, a hero, a mother, a patriot, a comrade, and a source of inspiration to this day - Milunka Savić**
+**This is a story about the greatest female warrior of all time - a lady with nine wounds and twelve medals, a hero, a mother, a patriot, a comrade, and a source of inspiration to this day - Milunka Savić**
 
 Early Life & Mobilization
 ------------
@@ -31,5 +31,7 @@ She was awarded the French Légion d’Honneur (Legion of Honour) twice, as well
 Legacy
 ------------
 
-  .. image:: Milunka_Savic.png
+Photo below: Monument to Milunka Savić in Jošanička Banja, Serbia
+
+  .. image:: Milunka_Spomenik.jpg
       :align: center
