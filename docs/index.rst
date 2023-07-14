@@ -43,6 +43,9 @@ Welcome to SAVIC documentation!
    A Hero's Story <04-about-milunka>
 
 
+.. bibliography:: Latex_Refs.bib
+  :style: plain
+
 Indices and tables
 ==================
 
