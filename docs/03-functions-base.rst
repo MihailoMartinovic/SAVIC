@@ -91,3 +91,74 @@ output:            data frame
 
 output structure:  'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b', 'tau_a', 'alph_a', 'D_a', 'vv_a', 'unstable'
 
+
+SAVIC_Q_C
+------------
+
+Quantifies the emitted power and propagation direction (:math:`k,B` angle) for unstable VDF with only core (C) component. 
+
+called as:         *SAVIC_Q_C.SAVIC_Q_C*
+
+called by:         *SAVIC_Core*
+
+input:             data frame 
+
+input structure:   'beta_par_core', 'alph_c', 'unstable'
+
+output:            data frame 
+
+output structure:  'beta_par_core', 'alph_c', 'unstable', 'Pc', 'theta_kB'
+
+
+SAVIC_Q_CB
+------------
+
+Quantifies the emitted power and propagation direction (:math:`k,B` angle) for unstable VDF with core and beam (CB) components. 
+
+called as:         *SAVIC_Q_CB.SAVIC_Q_CB*
+
+called by:         *SAVIC_CoreBeam*
+
+input:             data frame 
+
+input structure:   'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b'
+
+output:            data frame 
+
+output structure:  'beta_par_core', 'alph_c', 'unstable', 'Pow_core', 'kB_angle'
+
+
+SAVIC_Q_CA
+------------
+
+Quantifies the emitted power and propagation direction (:math:`k,B` angle) for unstable VDF with core and alpha (CA) components. 
+
+called as:         *SAVIC_Q_CA.SAVIC_Q_CA*
+
+called by:         *SAVIC_CoreAlpha*
+
+input:             data frame 
+
+input structure:   'beta_par_core', 'alph_c', 'tau_a', 'alph_a', 'D_a', 'vv_a'
+
+output:            data frame 
+
+output structure:  'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b', 'unstable', 'group', 'Pow_core', 'Pow_beam', 'kB_angle'
+
+
+SAVIC_Q_CBA
+------------
+
+Quantifies the emitted power and propagation direction (:math:`k,B` angle) for unstable VDF with core, beam, and alpha (CBA) components. 
+
+called as:         *SAVIC_Q_CBA.SAVIC_Q_CBA*
+
+called by:         *SAVIC_CoreBeamAlpha*
+
+input:             data frame 
+
+input structure:   'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b', 'tau_a', 'alph_a', 'D_a', 'vv_a'
+
+output:            data frame 
+
+output structure:  'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b', 'tau_a', 'alph_a', 'D_a', 'vv_a', 'unstable'
