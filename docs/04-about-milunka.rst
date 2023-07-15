@@ -23,7 +23,6 @@ Military Career
 
 She was assigned to the Drina Division of the Serbian Army. 
 As a soldier, she took part in war conflicts and especially stood out in the Battle of Skadar. After the short First Balkan War (1912-1913), Milunka Savić took part in the Second Balkan War (1913), which began immediately after the end of the First Balkan War and was fought between Bulgaria and Serbia due to a territorial dispute. 
-In both wars, the Serbs lost around 70,000 soldiers: 30,000 in the First and about 40,000 in the Second Balkan War. 
 Milunka Savić first became famous in the Battle of Bregalnica, when she was also wounded. In hospital, the medical staff realized that they were treating a woman. 
 Also in hospital, she was awarded the rank of lieutenant sergeant and the Karađorđe star. Although still wounded, she returned to the front line to her comrades. 
 
@@ -51,7 +50,7 @@ During all that time, she educated and raised thirty children whom she brought f
 
 Although without any formal education, she spoke and wrote in English and French, and maintained correspondence with her former comrades, including French admiral Émile Guépratte and marshal Franchet d'Espèrey. 
 
-At the beginning of World war II, she established and started running a military hospital in Belgrade. After the fall of Yugoslavia, this facility kept treating both monarchist and communist rebels. 
+At the beginning of World War II, she established and started running a military hospital in Belgrade. After the fall of Yugoslavia, this facility kept treating both monarchist and communist rebels. 
 For this, Milunka was arrested by the Nazi Germany authorities, getting severely beaten in the process, and incarcerated in Banjica concentration camp for 10 months. 
 However, one day a German general who commanded the camp recognized her and ordered her immediate release. 
 
@@ -71,7 +70,7 @@ External Links
 
 `Documentary about Milunka Savić <https://www.youtube.com/watch?v=vdsaddmOnGs>`_
 
-`*Lady of the Dark* by Sabaton <https://www.youtube.com/watch?v=3AsRfcrZeUE>`_
+`Lady of the Dark by Sabaton <https://www.youtube.com/watch?v=3AsRfcrZeUE>`_
 
 `Wikipedia article <https://en.wikipedia.org/wiki/Milunka_Savi%C4%87>`_
 
