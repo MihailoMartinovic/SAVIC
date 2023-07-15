@@ -127,7 +127,7 @@ output:            data frame
 
 output structure:  'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b', 'unstable', 'Pow_core', 'Pow_beam', 'kB_angle'
 
-Note: 'group' variable shows the result of the internal classifier: 
+**Note: 'group' variable shows the result of the internal classifier: **
 
 0 - C+B+k\ :sub:`⊥`\
  
@@ -158,7 +158,7 @@ output:            data frame
 
 output structure:  'beta_par_core', 'alph_c', 'tau_a', 'alph_a', 'D_a', 'vv_a', 'unstable', 'group', 'Pow_core', 'Pow_alpha', 'kB_angle'
 
-Note: 'group' variable shows the result of the internal classifier: 
+**Note: 'group' variable shows the result of the internal classifier: **
 
 0 - C+𝛼+k\ :sub:`⊥`\
 
@@ -190,7 +190,7 @@ output:            data frame
 
 output structure:  'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b', 'tau_a', 'alph_a', 'D_a', 'vv_a', 'unstable', 'group', 'Pow_core', 'Pow_beam', 'Pow_alpha', 'kB_angle'
 
-Note: 'group' variable shows the result of the internal classifier: 
+**Note: 'group' variable shows the result of the internal classifier: **
 
 0 - C+B+𝛼+
 
@@ -227,7 +227,7 @@ output:            data frame
 output structure:  'beta_par_core', 'alph_c', 'unstable', 'Pow_core', 'kB_angle', 'ins_type'
 
 
-Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): 
+**Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): **
 
 'Ion Cyclotron'
 
@@ -255,7 +255,7 @@ output:            data frame
 
 output structure:  'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b', 'unstable', 'Pow_core', 'Pow_beam', 'kB_angle', 'ins_type'
 
-Note: 'group' variable shows the result of the internal classifier: 
+**Note: 'group' variable shows the result of the internal classifier: **
 
 0 - C+B+k\ :sub:`⊥`\
  
@@ -270,7 +270,7 @@ Note: 'group' variable shows the result of the internal classifier:
 5 - C-B+k\ :sub:`∥`\
 
 
-Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): 
+**Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): **
 
 'IC (C)' - core induced parallel mode
 
@@ -307,7 +307,7 @@ output:            data frame
 
 output structure:  'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b', 'unstable', 'group', 'Pow_core', 'Pow_beam', 'kB_angle', 'ins_type'
 
-Note: 'group' variable shows the result of the internal classifier: 
+**Note: 'group' variable shows the result of the internal classifier: **
 
 0 - C+𝛼+k\ :sub:`⊥`\
 
@@ -322,7 +322,7 @@ Note: 'group' variable shows the result of the internal classifier:
 5 - C-𝛼+k\ :sub:`∥`\
 
 
-Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): 
+**Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): **
 
 'IC (C)' - core induced parallel mode
 
@@ -355,7 +355,7 @@ output:            data frame
 
 output structure:  'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b', 'tau_a', 'alph_a', 'D_a', 'vv_a', 'unstable', 'group', 'Pow_core', 'Pow_beam', 'Pow_alpha', 'kB_angle', 'ins_type'
 
-Note: 'group' variable shows the result of the internal classifier: 
+**Note: 'group' variable shows the result of the internal classifier: **
 
 0 - C+B+𝛼+
 
@@ -374,7 +374,7 @@ Note: 'group' variable shows the result of the internal classifier:
 7 - C-B-𝛼+
 
 
-Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): 
+**Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): **
 
 'IC (C)' - core induced parallel mode
 
