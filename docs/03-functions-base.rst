@@ -272,13 +272,22 @@ Note: 'group' variable shows the result of the internal classifier:
 
 Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): 
 
-'Ion Cyclotron'
+'IC (C)' - core induced parallel mode
 
-'Parallel Firehose'
+'IC (B), unstable core' - beam induced parallel mode with unstable core
 
-'Mirror'
+'IC (B); T\ :sub:`⊥`\/T\ :sub:`∥`\ > 1' - beam induced parallel mode with perpendular beam anisotropy
 
-'Oblique Firehose'
+'IC (B); T\ :sub:`⊥`\/T\ :sub:`∥`\ < 1' - beam induced parallel mode with parallel beam anisotropy 
+
+'Parallel Firehose' 
+
+'Oblique Firehose' 
+
+'Oblique FM (B)' - beam drift induced oblique mode
+
+'Oblique FM (B); resonant with Core' - beam drift induced oblique mode with core absorbing emitted power
+
 
 
 SAVIC_C_CA
