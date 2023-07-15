@@ -227,7 +227,7 @@ output:            data frame
 output structure:  'beta_par_core', 'alph_c', 'unstable', 'Pow_core', 'kB_angle', 'ins_type'
 
 
-Note: 'ins_type' variable has possible values of:
+Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of ApJ article): 
 
 'Ion Cyclotron'
 
