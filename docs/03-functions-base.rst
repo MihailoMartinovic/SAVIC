@@ -127,6 +127,19 @@ output:            data frame
 
 output structure:  'beta_par_core', 'alph_c', 'unstable', 'Pow_core', 'kB_angle'
 
+Note: 'group' variable shows the result of the internal classifier: 
+
+0 - C+B+k\ :sub:`⊥`\
+ 
+1 - C+B+k\ :sub:`∥`\
+ 
+2 - C+B-k\ :sub:`⊥`\
+ 
+3 - C+B-k\ :sub:`∥`\
+ 
+4 - C-B+k\ :sub:`⊥`\
+
+5 - C-B+k\ :sub:`∥`\
 
 SAVIC_Q_CA
 ------------
@@ -147,17 +160,18 @@ output structure:  'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b', 
 
 Note: 'group' variable shows the result of the internal classifier: 
 
-0 - C+B+k\ :sub:`⊥`\
- 
-1 - C+B+k\ :sub:`∥`\
- 
-2 - C+B-k\ :sub:`⊥`\
- 
-3 - C+B-k\ :sub:`∥`\
- 
-4 - C-B+k\ :sub:`⊥`\
+0 - C+𝛼+k\ :sub:`⊥`\
 
-5 - C-B+k\ :sub:`∥`\
+1 - C+𝛼+k\ :sub:`∥`\
+
+2 - C+𝛼-k\ :sub:`⊥`\
+
+3 - C+𝛼-k\ :sub:`∥`\
+
+4 - C-𝛼+k\ :sub:`⊥`\
+
+5 - C-𝛼+k\ :sub:`∥`\
+
 
 SAVIC_Q_CBA
 ------------
