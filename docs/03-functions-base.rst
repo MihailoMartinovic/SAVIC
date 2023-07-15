@@ -189,3 +189,21 @@ input structure:   'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b', 
 output:            data frame 
 
 output structure:  'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b', 'tau_a', 'alph_a', 'D_a', 'vv_a', 'unstable'
+
+Note: 'group' variable shows the result of the internal classifier: 
+
+0 - C+B+𝛼+
+
+1 - C+B+𝛼-
+
+2 - C+B-𝛼+
+
+3 - C+B-𝛼-
+
+4 - C-B+𝛼+
+
+5 - C-B+𝛼-k\ :sub:`⊥`\
+
+6 - C-B+𝛼-k\ :sub:`∥`\
+
+7 - C-B-𝛼+
