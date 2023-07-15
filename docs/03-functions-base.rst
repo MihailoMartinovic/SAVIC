@@ -227,7 +227,7 @@ output:            data frame
 output structure:  'beta_par_core', 'alph_c', 'unstable', 'Pow_core', 'kB_angle', 'ins_type'
 
 
-Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of ApJ article): 
+Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): 
 
 'Ion Cyclotron'
 
@@ -269,6 +269,18 @@ Note: 'group' variable shows the result of the internal classifier:
 
 5 - C-B+k\ :sub:`∥`\
 
+
+Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): 
+
+'Ion Cyclotron'
+
+'Parallel Firehose'
+
+'Mirror'
+
+'Oblique Firehose'
+
+
 SAVIC_C_CA
 ------------
 
@@ -299,6 +311,18 @@ Note: 'group' variable shows the result of the internal classifier:
 4 - C-𝛼+k\ :sub:`⊥`\
 
 5 - C-𝛼+k\ :sub:`∥`\
+
+
+Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): 
+
+'Ion Cyclotron'
+
+'Parallel Firehose'
+
+'Mirror'
+
+'Oblique Firehose'
+
 
 
 SAVIC_C_CBA
@@ -337,5 +361,14 @@ Note: 'group' variable shows the result of the internal classifier:
 7 - C-B-𝛼+
 
 
+Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): 
+
+'Ion Cyclotron'
+
+'Parallel Firehose'
+
+'Mirror'
+
+'Oblique Firehose'
 
 
