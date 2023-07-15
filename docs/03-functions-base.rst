@@ -324,13 +324,17 @@ Note: 'group' variable shows the result of the internal classifier:
 
 Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): 
 
-'Ion Cyclotron'
+'IC (C)' - core induced parallel mode
 
-'Parallel Firehose'
+'IC (A)' - alpha induced parallel mode 
 
-'Mirror'
+'A anis; borderline PFH' - mix of two modes due to limited classification accuracy 
+
+'Parallel Firehose' 
 
 'Oblique Firehose'
+
+'CGL Firehose; Mirror' - high beta fluid-like instability
 
 
 
@@ -372,12 +376,28 @@ Note: 'group' variable shows the result of the internal classifier:
 
 Note: 'ins_type' variable has possible values of (explanations in Section 3.3 of the `ApJ article <https://iopscience.iop.org/article/10.3847/1538-4357/acdb79>`_): 
 
-'Ion Cyclotron'
+'IC (C)' - core induced parallel mode
+
+'IC (C); A unstable' - core induced parallel mode with unstable alpha
+
+'IC (B), C unstable' - beam induced parallel mode with unstable core
+
+'IC (B); A unstable' - beam induced parallel mode with unstable alpha
+
+'IC (B); high B anis' - beam induced parallel mode with parallel / perpendular beam anisotropy
+
+'IC (B); borderline PFH' - mix of two modes due to limited classification accuracy 
+
+'IC (A)' - alpha induced parallel mode 
+
+'IC (A); C absorbing' - alpha induced parallel mode with core absorbing emitted power
+
+'Oblique Firehose'
 
 'Parallel Firehose'
 
-'Mirror'
+'FM (B), oblique' - beam drift induced oblique mode
 
-'Oblique Firehose'
+'FM (B), oblique; mirror' - mix of two modes due to limited classification accuracy 
 
 
