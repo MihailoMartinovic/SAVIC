@@ -3,12 +3,7 @@ List of Files
 #######
 
 
-Jupyter Notebooks
-------------
-
-**000_SAVIC.ipynb**
-
-| SAVIC
+| **SAVIC**
 | ├── 000_SAVIC.ipynb
 | ├── 00_SAVIC_P.ipynb
 | ├── 00_SAVIC_P_tutorial.ipynb
@@ -17,8 +12,10 @@ Jupyter Notebooks
 | ├── 00_SAVIC_C.ipynb
 | ├── 00_SAVIC_C_tutorial.ipynb
 | ├── 00_SAVIC_puthon_startup.py
-| ├── 00_SAVIC_readme.pdf
 | ├── readme.md
+| ├── tutorial
+| │   ├── SAVIC_Examples.h5
+| │   ├── 00_SAVIC_readme.pdf
 | ├── docs
 | │   ├── readthedocs documentation code
 | ├── Output
@@ -99,4 +96,21 @@ Jupyter Notebooks
 | │   ├──    ├──     ├── 'xgbr_cb_c1_b1.json'
 | │   ├──    ├──     └── 'xgbr_cb_c1_b1.png' 
 
+
+**00_SAVIC... Notebooks** - The functions explained in the documentation given in the Jupyter Notebook format from which can be run separately. 
+
+**00_SAVIC_tutorial... Notebooks** - 00_SAVIC... Notebooks with added detailled explanation for every step. 
+
+**readme.md** - GitHub required readme file. 
+
+**tutorial** folder - the file with examples and the detailed pdf readme file. 
+
+**docs** folder - *readthedocs* documentation file structure for *SAVIC* python package
+
+**Output** folder structure: 
+
+| │   ├── **GMM** folders - supporting files and output figures for Gaussian Mixture classification models 
+| │   ├── **xgbc_sus...** files - XGBoost models for SAVIC-P stable/unstable classification
+| │   ├── **xgbc_k...** files - XGBoost models for SAVIC-Q mode classification
+| │   ├── **xgbc_r...** files - XGBoost models for SAVIC-Q P and k regression 
 
