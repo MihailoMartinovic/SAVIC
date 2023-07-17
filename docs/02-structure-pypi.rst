@@ -28,5 +28,7 @@ List of Files
 | │    tutorial.py
 
 **__init__.py** - package initial file
+
 **SAVIC... .py** - function files
+
 **tutorial.py** - contains tutorial functions 
