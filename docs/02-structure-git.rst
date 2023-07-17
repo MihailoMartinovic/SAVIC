@@ -16,6 +16,7 @@ List of Files
 | ├── tutorial
 | │   ├── SAVIC_Examples.h5
 | │   ├── 00_SAVIC_readme.pdf
+| │   ├── 00_SAVIC_testing.ipynb
 | ├── docs
 | │   ├── readthedocs documentation code
 | ├── Output
@@ -103,7 +104,7 @@ List of Files
 
 **readme.md** - *GitHub* required readme file. 
 
-**tutorial** folder - the file with examples and the detailed pdf readme file. 
+**tutorial** folder - the files with examples, tutorial notebook, and the detailed pdf readme file. 
 
 **docs** folder - *readthedocs* documentation file structure for *SAVIC* python package
 
