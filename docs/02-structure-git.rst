@@ -25,14 +25,78 @@ Jupyter Notebooks
 | │   ├── ML
 | │   ├──    ├── models
 | │   ├──    ├──     ├── GMM_C
+| │   ├──    ├──     ├──     ├── GMM_C.png
+| │   ├──    ├──     ├──     ├── GMM_C_Brazil_4.png
+| │   ├──    ├──     ├──     ├── GMM_C_covariances.npy
+| │   ├──    ├──     ├──     ├── GMM_C_means.npy
+| │   ├──    ├──     ├──     └── GMM_C_weights.npy
 | │   ├──    ├──     ├── GMM_CB
+| │   ├──    ├──     ├──     ├── GMM_CB.png
+| │   ├──    ├──     ├──     ├── GMM_CB_Brazil_8.png
+| │   ├──    ├──     ├──     ├── GMM_CB_covariances.npy
+| │   ├──    ├──     ├──     ├── GMM_CB_means.npy
+| │   ├──    ├──     ├──     └── GMM_CB_weights.npy
 | │   ├──    ├──     ├── GMM_CA
+| │   ├──    ├──     ├──     ├── GMM_CA.png
+| │   ├──    ├──     ├──     ├── GMM_CA_Brazil_6.png
+| │   ├──    ├──     ├──     ├── GMM_CA_covariances.npy
+| │   ├──    ├──     ├──     ├── GMM_CA_means.npy
+| │   ├──    ├──     ├──     └── GMM_CA_weights.npy
 | │   ├──    ├──     ├── GMM_CBA
-| │   └── bboxinout.py
-| ├── pywps.cfg          
-| ├── requirements.txt
-| ├── server.py          
-| ├── setup.py
-| ├── static
-| ├── templates
-| └── tests
+| │   ├──    ├──     ├──     ├── GMM_CBA.png
+| │   ├──    ├──     ├──     ├── GMM_CBA_refined.png
+| │   ├──    ├──     ├──     ├── GMM_CBA_Brazil_14.png
+| │   ├──    ├──     ├──     ├── GMM_CBA_Brazil_refined_12.png
+| │   ├──    ├──     ├──     ├── GMM_CBA_covariances.npy
+| │   ├──    ├──     ├──     ├── GMM_CBA_means.npy
+| │   ├──    ├──     ├──     └── GMM_CBA_weights.npy
+| │   ├──    ├──     ├── 'xgbc_kca.json'
+| │   ├──    ├──     ├── 'xgbc_kca.png'
+| │   ├──    ├──     ├── 'xgbc_kcb.json'
+| │   ├──    ├──     ├── 'xgbc_kcb.png'
+| │   ├──    ├──     ├── 'xgbc_kcba.json'
+| │   ├──    ├──     ├── 'xgbc_kcba.png'
+| │   ├──    ├──     ├── 'xgbc_sus_c.json'
+| │   ├──    ├──     ├── 'xgbc_sus_c.png'
+| │   ├──    ├──     ├── 'xgbc_sus_ca.json'
+| │   ├──    ├──     ├── 'xgbc_sus_ca.png'
+| │   ├──    ├──     ├── 'xgbc_sus_cb.json'
+| │   ├──    ├──     ├── 'xgbc_sus_cb.png'
+| │   ├──    ├──     ├── 'xgbc_sus_cba.json'
+| │   ├──    ├──     ├── 'xgbc_sus_cba.png'
+| │   ├──    ├──     ├── 'xgbr_c.json'
+| │   ├──    ├──     ├── 'xgbr_c.png'
+| │   ├──    ├──     ├── 'xgbr_ca_c0_a1_k0.json'
+| │   ├──    ├──     ├── 'xgbr_ca_c0_a1_k0.png'
+| │   ├──    ├──     ├── 'xgbr_ca_c1_a0_k0.json'
+| │   ├──    ├──     ├── 'xgbr_ca_c1_a0_k0.png'
+| │   ├──    ├──     ├── 'xgbr_ca_c1_a1_k0.json'
+| │   ├──    ├──     ├── 'xgbr_ca_c1_a1_k0.png'
+| │   ├──    ├──     ├── 'xgbr_ca_c1_a1_k1.json'
+| │   ├──    ├──     ├── 'xgbr_ca_c1_a1_k1.png'
+| │   ├──    ├──     ├── 'xgbr_cba_c0_b0_a1.json'
+| │   ├──    ├──     ├── 'xgbr_cba_c0_b0_a1.png'
+| │   ├──    ├──     ├── 'xgbr_cba_c0_b1_a0_k0.json'
+| │   ├──    ├──     ├── 'xgbr_cba_c0_b1_a0_k0.png'
+| │   ├──    ├──     ├── 'xgbr_cba_c0_b1_a0_k1.json'
+| │   ├──    ├──     ├── 'xgbr_cba_c0_b1_a0_k1.png'
+| │   ├──    ├──     ├── 'xgbr_cba_c0_b1_a1.json'
+| │   ├──    ├──     ├── 'xgbr_cba_c0_b1_a1.png'
+| │   ├──    ├──     ├── 'xgbr_cba_c1_b0_a0.json'
+| │   ├──    ├──     ├── 'xgbr_cba_c1_b0_a0.png'
+| │   ├──    ├──     ├── 'xgbr_cba_c1_b0_a1.json'
+| │   ├──    ├──     ├── 'xgbr_cba_c1_b0_a1.png'
+| │   ├──    ├──     ├── 'xgbr_cba_c1_b1_a0.json'
+| │   ├──    ├──     ├── 'xgbr_cba_c1_b1_a0.png'
+| │   ├──    ├──     ├── 'xgbr_cba_c1_b1_a1.json'
+| │   ├──    ├──     ├── 'xgbr_cba_c1_b1_a1.png'
+| │   ├──    ├──     ├── 'xgbr_cb_c0_b1_k0.json'
+| │   ├──    ├──     ├── 'xgbr_cb_c0_b1_k0.png'
+| │   ├──    ├──     ├── 'xgbr_cb_c0_b1_k1.json'
+| │   ├──    ├──     ├── 'xgbr_cb_c0_b1_k1.png'
+| │   ├──    ├──     ├── 'xgbr_cb_c1_b0.json'
+| │   ├──    ├──     ├── 'xgbr_cb_c1_b0.png'
+| │   ├──    ├──     ├── 'xgbr_cb_c1_b1.json'
+| │   ├──    ├──     └── 'xgbr_cb_c1_b1.png' 
+
+
