@@ -34,6 +34,20 @@ input:      none
 output:     path to *SAVIC_readme.pdf*
 
 
+article_path
+------------
+
+*functions: tutorial.article_path*
+
+called as:  *tutorial.article_path* 
+
+called by:  user
+
+input:      none
+
+output:     paths to two articles on the topic 
+
+
 test_path
 ------------
 
