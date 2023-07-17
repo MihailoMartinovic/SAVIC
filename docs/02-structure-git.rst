@@ -97,11 +97,11 @@ List of Files
 | │   ├──    ├──     └── 'xgbr_cb_c1_b1.png' 
 
 
-**00_SAVIC... Notebooks** - The functions explained in the documentation given in the Jupyter Notebook format from which can be run separately. 
+**00_SAVIC... Notebooks** - The functions explained in this documentation given in the Jupyter Notebook format from which can be run separately. 
 
 **00_SAVIC_tutorial... Notebooks** - 00_SAVIC... Notebooks with added detailled explanation for every step. 
 
-**readme.md** - GitHub required readme file. 
+**readme.md** - *GitHub* required readme file. 
 
 **tutorial** folder - the file with examples and the detailed pdf readme file. 
 
