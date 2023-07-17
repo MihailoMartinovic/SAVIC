@@ -15,6 +15,8 @@ Internal Function that separates C, C B, C :math:`&#945;` , and C B :math:`&#945
 
 called as:  *SAVIC_Input_Sort.SAVIC_Input_Sort* 
 
+called by:         *SAVIC*
+
 input:      input data frame
 
 output:     list of 4 input data frames (some of which might be empty), of adequate formats to input into SAVIC_P_C, SAVIC_P_CB, SAVIC_P_CA, and SAVIC_P_CBA, respectively. 
@@ -121,7 +123,7 @@ called by:         *SAVIC_CoreBeam*
 
 input:             data frame 
 
-input structure:   'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b'
+input structure:   'beta_par_core', 'alph_c', 'tau_b', 'alph_b', 'D_b', 'vv_b', 'unstable'
 
 output:            data frame 
 
@@ -152,7 +154,7 @@ called by:         *SAVIC_CoreAlpha*
 
 input:             data frame 
 
-input structure:   'beta_par_core', 'alph_c', 'tau_a', 'alph_a', 'D_a', 'vv_a'
+input structure:   'beta_par_core', 'alph_c', 'tau_a', 'alph_a', 'D_a', 'vv_a', 'unstable'
 
 output:            data frame 
 
