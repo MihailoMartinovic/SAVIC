@@ -29,12 +29,12 @@ Welcome to SAVIC documentation!
 .. toctree::
    :hidden:
    :maxdepth: 1
-   :caption: Manual & Examples
+   :caption: Functions Manual
 
+   Tutorial Functions <03-functions-tutorial>
    Basic Functions <03-functions-base>
    Chain Functions <03-functions-chain>
-   Full SAVIC Tree <03-functions-savic>
-
+   
 .. toctree::
    :hidden:
    :maxdepth: 1
