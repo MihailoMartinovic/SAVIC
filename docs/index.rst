@@ -46,9 +46,3 @@ Welcome to SAVIC documentation!
 .. bibliography:: Latex_Refs.bib
   :style: plain
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
