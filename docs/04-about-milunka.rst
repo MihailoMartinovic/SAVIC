@@ -62,7 +62,7 @@ Her remains were moved to the Alley of the Greats on the New Cemetery in Belgrad
 Medals
 ------------
 
-On top of two Karađorđe start, Milunka was awarded the French Légion d’Honneur (Legion of Honour) twice (type IV and type V) as well as the Russian Cross of St. George, the British medal of the Most Distinguished Order of St Michael, and the Serbian Miloš Obilić medal. 
+On top of two Karađorđe stars, Milunka was awarded the French Légion d’Honneur (Legion of Honour) twice (type IV and type V) as well as the Russian Cross of St. George, the British medal of the Most Distinguished Order of St Michael, and the Serbian Miloš Obilić medal. 
 She is the sole female recipient of the French Croix de Guerre with the gold palm. 
 
 External Links
