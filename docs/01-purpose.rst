@@ -11,3 +11,7 @@ The SAVIC software intends to combine:
 
 SAVIC software is a combination of the three components listed above. 
 However, each of the given codes can also be used separately. 
+
+<object data="/docs/2023_PSP_Theory_Group.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="/docs/2023_PSP_Theory_Group.pdf">Download</a> instead.</p>
+</object>
