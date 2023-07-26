@@ -46,4 +46,4 @@ Welcome to SAVIC documentation!
 .. bibliography:: Latex_Refs.bib
   :style: plain
 
-The presentation of the project is avalable in PDF format :download:`here <docs/2023_PSP_Theory_Group.pdf>`
+The presentation of the project is avalable in PDF format :download:`here <2023_PSP_Theory_Group.pdf>`
