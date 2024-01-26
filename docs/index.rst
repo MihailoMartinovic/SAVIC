@@ -47,7 +47,7 @@ Welcome to SAVIC documentation!
    :maxdepth: 1
    :caption: Version History
 
-   Version History <05-version-history>
+   A Hero's Story <04-about-milunka>
 
 
 .. bibliography:: Latex_Refs.bib
