@@ -1,3 +1,6 @@
+.. role:: math(raw)
+    :format: latex html
+
 #######
 Version History
 #######
