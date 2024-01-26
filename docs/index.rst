@@ -42,6 +42,13 @@ Welcome to SAVIC documentation!
 
    A Hero's Story <04-about-milunka>
 
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Version History
+
+   Version History <05-version-history>
+
 
 .. bibliography:: Latex_Refs.bib
   :style: plain
