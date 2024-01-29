@@ -7,4 +7,4 @@ Documentation: https://savic.readthedocs.io/en/latest/
 
 Package: pip install savic 
 
-[![DOI](https://zenodo.org/badge/592545400.svg)](https://zenodo.org/badge/latestdoi/592545400)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10581356.svg)](https://doi.org/10.5281/zenodo.10581356)
