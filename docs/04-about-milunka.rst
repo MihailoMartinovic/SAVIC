@@ -13,7 +13,7 @@ Early Life & Mobilization
 
 Milunka Savić was born in 1890 (or 1892, according to her membership card of the Association of Reserve Military Officers) in the village of Koprivnica near Jošanička Banja in Raška, Serbia, to mother Danica and father Radenko, as the eldest child. 
 She had two younger sisters Miona and Slavka and her brother Milan, and was raised in a conservative rural family, where children were taught to be virtuous and honest people, and to love their neighbor and their country. 
-She grew into a beautiful, tall and strong girl, while her brother Milan was weak young man prone to illness. After the publication of the Decree on Mobilization on September 30 / October 3 1912, Milunka decided to register at one of the mobilization gatherings in Belgrade, instead of her brother. She registered under the name Milun Savić. 
+She grew into a beautiful, tall and strong girl, while her brother Milan was weak young man prone to illness. After the publication of the Decree on Mobilization on September 30 / October 3 1912, Milunka decided to register at one of the mobilization sites in Belgrade, instead of her brother. She registered under the name Milun Savić. 
 
 *I'm going to war, and how will I go to war if I don't learn how to be a man. It's not just: `Milunka, put on men's clothes, cut your hair, tighten your chest and that's it, you've become a man` but, my brother, I have to practice my speech and posture. Yes, posture... I, Milun Savić, a shy guy, will always be on guard, not to say my real name when asked.*
 
@@ -26,9 +26,9 @@ As a soldier, she took part in war conflicts and especially stood out in the Bat
 Milunka Savić first became famous in the Battle of Bregalnica, when she was also wounded. In hospital, the medical staff realized that they were treating a woman. 
 Also in hospital, she was awarded the rank of lieutenant sergeant and the Karađorđe star. Although still wounded, she returned to the front line to her comrades. 
 
-After World War I started In September 1918, she volunteered for service. 
-However, as her secret was revealed, she was rejected this time. Milunka did not want to give up and even managed to reach the Chief of Staff of the Supreme Command, Radomir Putnik. Putnik initially refuses to approve Milunka's request and instead offers her to be a nurse. 
-She refuses and after persistent insistence she gets enlisted into Second Infantry Regiment of the Moravian Division, an elite unit known as *The Iron Squadron*. 
+After World War I started In July 1914, she volunteered for service. 
+However, as her secret was revealed, she was not allowed to join the ranks. Milunka did not want to give up and even managed to reach the Chief of Staff of the Supreme Command, Radomir Putnik. Putnik initially refused to approve Milunka's request and instead offered her to be a nurse. 
+She declined and after persistent insistence got enlisted into Second Infantry Regiment of the Morava Division, an elite unit known as *The Iron Squadron*. 
 
 *I am lieutenant sergeant of the Serbian army, and I demand my war schedule. I don't want to nurse, I want a rifle! I am not afraid of bullet. I demand to be enlisted into a squadron!*
 
@@ -45,12 +45,12 @@ After demobilization in 1920, as a sergeant, she worked in Bosnia and Herzegovin
 She married Veljko Gligorović in 1922, and had daughter Milena in 1924. They also adopted three more children. 
 After getting divorced, she continued to live with her children and sister in Stepanovićevo village near Novi Sad, where she received property from the state and built a house. 
 She moved to Belgrade with her children in 1929 due to poverty. 
-On the initiative of her comrades, Milunka got a job as a maid at a bank in Belgrade, where she spent most of her working life. She turned down an offer to move to France and receive a French military pension. Instead, she chose to live in Belgrade. 
+On the initiative of her comrades, Milunka got a job as a maid at a bank in Belgrade, where she spent most of her working life. She turned down an offer to move to France and receive French military pension. Instead, she stay in Belgrade. 
 During all that time, she educated and raised thirty children whom she brought from her home village. 
 
 Although without any formal education, she spoke and wrote in English and French, and maintained correspondence with her former comrades, including French admiral Émile Guépratte and marshal Franchet d'Espèrey. 
 
-At the beginning of World War II, she established and started running a military hospital in Belgrade. After the fall of Yugoslavia, this facility kept treating both monarchist and communist rebels. 
+At the beginning of World War II, she established and maintained a military hospital in Belgrade. After the fall of Yugoslavia, this facility kept treating both monarchist and communist rebels. 
 For this, Milunka was arrested by the Nazi Germany authorities, getting severely beaten in the process, and incarcerated in Banjica concentration camp for 10 months. 
 However, one day a German general who commanded the camp recognized her and ordered her immediate release. 
 
