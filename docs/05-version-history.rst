@@ -11,4 +11,8 @@ Version History
 
 **v1.1.0:** Added code to preserve row ordering between input and output data frames in *SAVIC.py*
 
-**v1.2.0:** A systemic bug regarding the secondary component drift resolved. 
+**v1.2.0:** A systemic bug regarding the secondary component drift resolved 
+
+*v1.2.1:* Accelerated the initial package import 
+
+*v1.2.2:* Minor verbose bug fix at importing 
