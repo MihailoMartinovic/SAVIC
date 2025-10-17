@@ -18,3 +18,5 @@ Version History
 *v1.2.2:* Minor verbose bug fix at importing 
 
 *v1.2.5:* Fixed a bug with the accelerated the initial package import that did not check for file sizes
+
+*v1.2.6:* Added PiPy source code to the repository 
