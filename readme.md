@@ -1,7 +1,7 @@
 # SAVIC
 Stability Analysis Vitalizing Instability Classification
 
-Version: 1.2.5
+Version: 1.2.6
 
 Documentation: https://savic.readthedocs.io/en/latest/
 
