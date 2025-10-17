@@ -1,0 +1,32 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "savic"
+version = "1.2.6"
+authors = [
+  { name="Mihailo Martinovic", email="mmartinovic@arizona.edu" },
+]
+description = "SAVIC package"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+  "numpy>=1.24.3",
+  "pandas>=1.4.4",
+  "tables>=3.8.0",
+  "wget>=3.2",
+  "urllib3>=1.26.16",
+  "xgboost>=1.7.2",
+  "scikit-learn>=1.2.0",
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://pypi.org/project/savic/"
+History = "https://test.pypi.org/project/savic-test/"
+Source = "https://github.com/MihailoMartinovic/SAVIC"
