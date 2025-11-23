@@ -20,3 +20,6 @@ Version History
 *v1.2.5:* Fixed a bug with the accelerated the initial package import that did not check for file sizes
 
 *v1.2.6:* Added PiPy source code to the repository 
+
+*v1.2.7:* Fixed a bug in SAVIC-P CB function regarding logged values 
+
